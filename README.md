@@ -1,14 +1,3 @@
-## Project Overview
-
-The task involves developing a web application that allows users to browse through a list of products categorized by various parameters. Users should have the capability to sort and filter products based on criteria such as categories, price range, gender, occasion, and discount. Furthermore, the application should empower users to seamlessly edit and delete their selected products, with these modifications being promptly reflected in the user interface.
-
-## Github Repo:
-
-https://github.com/enacton-tech/mern-stack-task
-
-### Video Explanation
-
-https://app.usebubbles.com/kG9NjR5kqBCssXm1yA5dZt/mernstack-interview-task-walkthrough
 
 ### Setting Up the Project
 
@@ -40,7 +29,7 @@ To set up the project locally, follow these steps:
 6. **Price Range Filter**: Provide the ability to filter products based on the selected price range and highlight the chosen range within its dedicated tab.
 7. **Occasion Filter**: Enable product filtering based on the selected occasion and highlight the chosen occasion within its specific tab.
 8. **Discount Filter**: Implement product filtering based on the selected discount and highlight the chosen discount within its dedicated tab.
-9. **URL Parameters**: Store all filter and sort options in the URL parameters to replicate the user's browsing state when sharing URLs.
+
 
 #### Product Operations (Create/Edit/Delete)
 
@@ -48,12 +37,7 @@ To set up the project locally, follow these steps:
 11. **Edit Product**: Allow users to modify specific product details.
 12. **Delete Product**: Provide the functionality to remove a particular product from the list.
 
-### Delivery Expectations
 
-1. **Code Repository**: Push the code to a public GitHub repository.
-2. **Documentation**: Provide well-documented code with a comprehensive README file.
-3. **Setup Instructions**: Include clear instructions on how to set up and run the project.
-4. **Application Demo**: Record a video demonstrating the application's functionality.
 
 ### Evaluation Criteria
 
@@ -66,6 +50,3 @@ Candidates will be evaluated based on the following criteria:
 5. **Technical Proficiency**: How effectively does the candidate utilize relevant technologies and APIs?
 6. **Delivery Quality**: Does the candidate deliver all expected deliverables with high quality?
 
-## Conclusion
-
-We're thrilled to witness your skills in action as you tackle this project. Your dedication and creativity will play a vital role in crafting a seamless user experience. Best of luck, and we're excited to see your contributions!
